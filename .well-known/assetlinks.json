@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.streamvault.app",
+      "sha256_cert_fingerprints": [
+        "01:EE:31:FF:F6:54:F5:CD:D6:AB:70:31:EA:40:04:19:A1:5D:CB:3A:1A:63:9E:2D:B0:E5:0E:D7:4A:01:7B:E6"
+      ]
+    }
+  }
+]
